@@ -1,4 +1,4 @@
-package com.example.brush
+package com.davidzirinsky.brush
 
 import org.junit.Test
 

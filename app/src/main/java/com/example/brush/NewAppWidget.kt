@@ -1,4 +1,4 @@
-package com.example.brush
+package com.davidzirinsky.brush
 
 import android.annotation.SuppressLint
 import android.app.AlarmManager
@@ -9,9 +9,10 @@ import android.content.ComponentName
 import android.content.Context
 import android.content.Intent
 import android.widget.RemoteViews
-import com.example.brush.NewAppWidget.Companion.BUTTON_IS_VISIBLE
-import com.example.brush.NewAppWidget.Companion.WIDGET_BUTTON_CLICKED
-import com.example.brush.NewAppWidget.Companion.WIDGET_UPDATE_INTERVAL_HOURS
+import com.davidzirinsky.brush.R
+import com.davidzirinsky.brush.NewAppWidget.Companion.BUTTON_IS_VISIBLE
+import com.davidzirinsky.brush.NewAppWidget.Companion.WIDGET_BUTTON_CLICKED
+import com.davidzirinsky.brush.NewAppWidget.Companion.WIDGET_UPDATE_INTERVAL_HOURS
 import java.lang.Exception
 
 /**
