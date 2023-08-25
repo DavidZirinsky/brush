@@ -18,10 +18,6 @@ We all know that android studio can be finnicky importing projects. This project
 
 <br>
 
-## I Don't Want To Read Through Your Code, What's The Magical Curl Command? 💻 
-
-<br>
-
 ## App Store Download📱
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.davidzirinsky.brush">
